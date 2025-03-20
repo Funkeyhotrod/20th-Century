@@ -1,0 +1,92 @@
+,source,target,value
+0,Austria,France,6
+1,Austria,Russia,5
+2,Germany,Russia,21
+3,Germany,Yugoslavia,4
+4,Germany,Italy,25
+5,Austria,Germany,11
+6,Germany,Spain,1
+7,France,Poland,14
+8,France,Germany,23
+9,Germany,Poland,23
+10,Poland,Soviet Union,7
+11,Estonia,Germany,5
+12,Estonia,Latvia,6
+13,Latvia,Lithuania,6
+14,Finland,Lithuania,12
+15,Finland,Germany,11
+16,Netherlands,Poland,6
+17,Luxembourg,Netherlands,6
+18,Belgium,Luxembourg,4
+19,Belgium,Denmark,5
+20,Denmark,Norway,12
+21,Denmark,Sweden,6
+22,Germany,Sweden,6
+23,France,Italy,4
+24,Greece,Yugoslavia,12
+25,Albania,Greece,6
+26,Albania,Yugoslavia,12
+27,Greece,Ukraine,3
+28,Belarus,Ukraine,6
+29,Belarus,Libya,2
+30,Egypt,Libya,16
+31,Egypt,Iraq,5
+32,Germany,Japan,23
+33,Japan,Russia,13
+34,Germany,Morocco,1
+35,Algeria,Morocco,6
+36,Algeria,Italy,5
+37,China,Japan,29
+38,Japan,Thailand,6
+39,Singapore,Thailand,6
+40,Japan,Singapore,4
+41,Japan,Philippines,11
+42,Japan,Solomon Islands,9
+43,India,Japan,12
+44,France,Russia,6
+45,China,France,6
+46,China,India,12
+47,India,Pakistan,13
+48,Israel,Pakistan,6
+49,Israel,South Africa,12
+50,Israel,Libya,5
+51,Iran,Libya,6
+52,Germany,Iran,3
+53,France,Japan,4
+54,India,Papua New Guinea,3
+55,Pakistan,Philippines,5
+56,Laos,Philippines,5
+57,Cambodia,Laos,6
+58,Cambodia,Kenya,6
+59,Ghana,Kenya,6
+60,Ghana,Seychelles,5
+61,Seychelles,Soviet Union,2
+62,Estonia,Soviet Union,1
+63,Estonia,Lithuania,6
+64,Finland,Romania,6
+65,Romania,Soviet Union,6
+66,Soviet Union,Yugoslavia,5
+67,Albania,Bulgaria,6
+68,Bulgaria,Poland,6
+69,Poland,Romania,6
+70,Hungary,Romania,6
+71,Hungary,Mongolia,5
+72,China,Mongolia,6
+73,China,North Korea,6
+74,Cuba,North Korea,8
+75,North Korea,United States,6
+76,South Korea,United States,6
+77,Canada,South Korea,6
+78,Australia,Canada,6
+79,Australia,Vietnam,4
+80,Cambodia,Vietnam,4
+81,Cuba,Vietnam,4
+82,Cuba,United States,3
+83,Russia,United States,3
+84,Rwanda,South Africa,5
+85,North Korea,Rwanda,2
+86,Germany,Norway,6
+87,Greece,Italy,3
+88,Italy,Japan,6
+89,Romania,Russia,6
+90,India,Singapore,5
