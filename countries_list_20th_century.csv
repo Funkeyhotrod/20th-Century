@@ -4,7 +4,7 @@
 3,Algeria
 4,Andorra
 5,Angola
-6,Antigua
+6,Antigua and Barbuda
 7,Argentina
 8,Armenia
 9,Australia
@@ -20,39 +20,39 @@
 19,Benin
 20,Bhutan
 21,Bolivia
-22,Bosnia
+22,Bosnia and Herzegovina
 23,Botswana
 24,Brazil
 25,Brunei
 26,Bulgaria
-27,Burkina
+27,Burkina Faso
 28,Burundi
 29,Cambodia
 30,Cameroon
 31,Canada
-32,Verde
-33,Central
+32,Cape Verde
+33,Central African Republic
 34,Chad
 35,Chile
 36,China
 37,Colombia
 38,Comoros
-39,Congo
-40,Republic
-41,Costa
+39,Democratic Republic of the Congo
+40,Republic of the Congo
+41,Costa Rica
 42,Croatia
 43,Cuba
 44,Cyprus
-45,Czech
+45,Czech Republic
 46,Denmark
 47,Djibouti
 48,Dominica
-49,Dominican
-50,Timor
+49,Dominican Republic
+50,East Timor
 51,Ecuador
 52,Egypt
-53,Salvador
-54,Equatorial
+53,El Salvador
+54,Equatorial Guinea
 55,Eritrea
 56,Estonia
 57,Eswatini
@@ -82,15 +82,15 @@
 82,Ireland
 83,Israel
 84,Italy
-85,Ivory
+85,Ivory Coast
 86,Jamaica
 87,Japan
 88,Jordan
 89,Kazakhstan
 90,Kenya
 91,Kiribati
-92,North
-93,South
+92,North Korea
+93,South Korea
 94,Kuwait
 95,Kyrgyzstan
 96,Laos
@@ -108,7 +108,7 @@
 108,Maldives
 109,Mali
 110,Malta
-111,Marshall
+111,Marshall Islands
 112,Mauritania
 113,Mauritius
 114,Mexico
@@ -124,18 +124,18 @@
 124,Nauru
 125,Nepal
 126,Netherlands
-127,Zealand
+127,New Zealand
 128,Nicaragua
 129,Niger
 130,Nigeria
-131,Macedonia
+131,North Macedonia
 132,Norway
 133,Oman
 134,Pakistan
 135,Palau
 136,Palestine
 137,Panama
-138,Papua
+138,Papua New Guinea
 139,Paraguay
 140,Peru
 141,Philippines
@@ -145,24 +145,25 @@
 145,Romania
 146,Russia
 147,Rwanda
-148,Kitts
-149,SaintLucia
-150,Vincent
+148,Saint Kitts and Nevis
+149,Saint Lucia
+150,Saint Vincent and the Grenadines
 151,Samoa
-152,Marino
-154,Arabia
+152,San Marino
+154,Saudi Arabia
 155,Senegal
 156,Serbia
 157,Seychelles
-158,Sierra
+158,Sierra Leone
 159,Singapore
 160,Slovakia
 161,Slovenia
-162,Solomon
+162,Solomon Islands
 163,Somalia
-164,Africa
+164,South Africa
+165,South Sudan
 166,Spain
-167,Lanka
+167,Sri Lanka
 168,Sudan
 169,Suriname
 170,Sweden
@@ -173,20 +174,20 @@
 175,Thailand
 176,Togo
 177,Tonga
-178,Trinidad
+178,Trinidad and Tobago
 179,Tunisia
 180,Turkey
 181,Turkmenistan
 182,Tuvalu
 183,Uganda
 184,Ukraine
-185,Emirates
-186,Kingdom
-187,America
+185,United Arab Emirates
+186,United Kingdom
+187,United States
 188,Uruguay
 189,Uzbekistan
 190,Vanuatu
-191,Vatican
+191,Vatican City
 192,Venezuela
 193,Vietnam
 194,Yemen
@@ -194,21 +195,18 @@
 196,Zimbabwe
 197,Abkhazia
 198,Artsakh
-199,Cook
+199,Cook Islands
 200,Donetsk
 201,Kosovo
 202,Luhansk
 203,Niue
-204,Northern
+204,Northern Cyprus
 205,Sahrawi
 206,Somaliland
-207,Ossetia
+207,South Ossetia
 208,Taiwan
 209,Transnistria
-210,Barbuda
-211,Herzegovina
-212,Korea
-213,Nevis
-214,Grenadines
-215,Tobago
-216,States
+210,Ottoman Empire
+211,Soviet Union
+212,Yugoslavia
+213,Czezhoslovakia
